@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @maxwell150
+- 👋 Hi, I’m Maxwell Githumbi 
 - 👀 I’m interested in Backend development and Cloud 
 - 🌱 I’m currently learning APIs and Cloud 
 - 📫 How to reach me maxwelgithumbi@gmail.com
